@@ -100,7 +100,7 @@ Section links :
 
 Relative links:
 
-[Don't look](README.md)
+[Don't look](randompage.md)
 
 Pictures :
 
